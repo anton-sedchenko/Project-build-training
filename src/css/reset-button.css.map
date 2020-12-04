@@ -1,0 +1,1 @@
+{"version":3,"file":"reset-button.css","sources":["reset-button.scss"],"sourcesContent":[".reset-link {\r\n  text-decoration: none;\r\n  color: #62436F;\r\n}\r\n\r\n.reset-link:hover {\r\n  color: green;\r\n}\r\n"],"names":[],"mappings":"AAAA,AAAA,WAAW,CAAC;EACV,eAAe,EAAE,IAAI;EACrB,KAAK,EAAE,OAAO,GACf;;AAED,AAAA,WAAW,AAAA,MAAM,CAAC;EAChB,KAAK,EAAE,KAAK,GACb"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"fonts.css","sources":["fonts.scss"],"sourcesContent":["body {\r\n  font-family: Arial, sans-serif;\r\n  font-size: 1.1rem;\r\n}"],"names":[],"mappings":"AAAA,AAAA,IAAI,CAAC;EACH,WAAW,EAAE,iBAAiB;EAC9B,SAAS,EAAE,MAAM,GAClB"}
