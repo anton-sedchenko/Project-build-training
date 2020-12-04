@@ -1,4 +1,6 @@
 # Project-build-training
+Game "Stone paper scissors". Project build training
+
 - Use Yarn to install dependencies.
 - Use Webpack/Gulp to handle the build process.
 - Styles should be Less/Sass/Scss in different files. Should be compiled to one CSS.
